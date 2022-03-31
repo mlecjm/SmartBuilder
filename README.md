@@ -1,6 +1,6 @@
 # SmartBuilder
 SmartBuilder: A Block-based Visual Programming Framework for Smart Contract Development
-- WebSite: https://mlecjm.github.io/SmartBuilder/Index.html
+- WebSite: https://mlecjm.github.io/SmartBuilder
 
 ### Technology stack used
 
